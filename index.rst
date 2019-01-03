@@ -1,3 +1,17 @@
+.. I.0.Space Docs documentation master file, created by
+   sphinx-quickstart on Thu Jan  3 15:26:27 2019.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to I.0.Community! Read the following carefully
+======================================================
+
+.. toctree::
+   :maxdepth: 2
+
+   I.0.Stream-OpenEnd
+
+
 ====================================
 I.0.Space information and guidelines
 ====================================
@@ -26,8 +40,7 @@ I.0.Community members can help the community by taking up various roles in the s
 responsibilities:
 
 1. **Moderators**: Members experienced in managing online chatrooms or those who wants to undertake general moderation duties are presented with the role of moderators.
-2. **Project Managers**: Members who would like to manage projects undertaken by I.0.Stream OpenEnd have been presented with this role. **Project Managers** have ruling over the presenting 
-other interested community members with 
+2. **Project Managers**: Members who would like to manage projects undertaken by I.0.Stream OpenEnd have been presented with this role. **Project Managers** have ruling over the presenting other interested community members with 
 
 But with great power comes great responsibility as well. Being a member of I.0.Community, you are expected to abide by the following rules and regulations set forth by I.0.Space:
 
@@ -52,3 +65,11 @@ But with great power comes great responsibility as well. Being a member of I.0.C
 | 3. Do NOT play hour long playlists.
 
 Special thank to **@Kaneki** (I.O.Community) for helping us jot down the community goi 
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

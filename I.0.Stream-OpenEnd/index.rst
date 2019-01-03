@@ -1,13 +1,23 @@
-==========================================
-I.0.Stream-OpenEnd contribution guidelines
-==========================================
+==================
+I.0.Stream-OpenEnd
+==================
+
+```
+THIS PAGE IS NOT COMPLETED. INFO ON THIS PAGE NEEDS UPDATE. DO NOT READ OR REFERENCE.
+```
+
+.. toctree::
+   :maxdepth: 2
+
+   what_is_it.rst
+
 Welcome to OpenEnd contribution guidelines page. OpenEnd is the open source collaborative software development end of I.0.Stream. Members of I.0.Community 
 
 Since you have made it this far, we hope you enjoyed your stay in OpenEnd. We are happy to have you here as well. This guide will help you understand different roles in the organization, what are their duties, what are the benefits of taking those roles, what are the consequences of failing in those roles.
 
 There are 3 roles that may be given to any individual :-
 
-|1. Project Developers
+|1. Project Developers.
 |2. Project Managers.
 |3. Moderators.
 
